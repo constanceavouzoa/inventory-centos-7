@@ -1,0 +1,1 @@
+# inventory-centos-7
